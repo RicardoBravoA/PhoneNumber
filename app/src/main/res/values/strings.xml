@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhoneNumber</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="item_image_contentDescription">Country flag</string>
+    <string name="item_preview_country">Israel (‫ישראל‬‎)</string>
+    <string name="item_preview_dialCode">+972</string>
+    <string name="validate">Validar</string>
+
+</resources>
